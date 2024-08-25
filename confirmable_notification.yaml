@@ -4,7 +4,7 @@ blueprint:
     A script that sends an actionable notification with a confirmation before
     running the specified action.
   domain: script
-  source_url: 
+  source_url: https://github.com/abefroman77/blueprints/blob/main/confirmable_notification.yaml
   author: Abe Froman
   input:
     notify_device:
